@@ -31,5 +31,5 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'ACP_POSTINGTEMPLATE'			=> 'Posting template',
-	'ACP_POSTINGTEMPLATE_EXPLAIN'	=> 'Bij het starten van een onderwerp, zal het tekstveld gevuld worden met een vooraf ingesteld posting template. Laat dit vak leeg als je deze optie niet wilt gebruiken.',
+	'ACP_POSTINGTEMPLATE_EXPLAIN'	=> 'Bij het starten van een onderwerp, komt er in het tekstveld een vooraf ingesteld posting template te staan. Laat dit vak leeg als je deze optie niet wilt gebruiken.',
 ));
